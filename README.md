@@ -78,5 +78,18 @@ Cada peça utiliza uma estrutura diferente, conforme solicitado no desafio.
 
 gcc xadrez.c -o xadrez
 
+## 🐴 Nível Aventureiro – Movimento do Cavalo
+
+Neste nível foi implementado o movimento do **Cavalo no xadrez**, que se desloca em formato de **"L"**.
+
+### Movimento implementado
+- Duas casas para **baixo**
+- Uma casa para a **esquerda**
+
+### Conceitos aplicados
+- Uso de **loops aninhados**
+- Loop `for` para o movimento principal
+- Loop `while` ou `do-while` para o movimento perpendicular
+- Impressão passo a passo do movimento:
 
 
