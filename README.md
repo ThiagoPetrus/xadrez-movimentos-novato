@@ -136,6 +136,15 @@ e controle de fluxo com `break` e `continue`, simulando corretamente o movimento
 
 O código do nível mestre está disponível no arquivo:
 
+---
+
+## 🚢 Batalha Naval – Nível Novato
+
+Desafio desenvolvido em C utilizando **matriz 10x10**, **vetores unidimensionais** e **loops aninhados** para posicionar dois navios (horizontal e vertical) em um tabuleiro de Batalha Naval.
+
+📂 Arquivo:
+- `Batalha_naval/batalha_naval_novato.c`
+
 
 
 
