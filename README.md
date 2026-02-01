@@ -91,5 +91,51 @@ Neste nível foi implementado o movimento do **Cavalo no xadrez**, que se desloc
 - Loop `for` para o movimento principal
 - Loop `while` ou `do-while` para o movimento perpendicular
 - Impressão passo a passo do movimento:
+---
+
+## ♟️ Nível Mestre – Movimentos Complexos
+
+### Descrição
+
+No **Nível Mestre**, o projeto foi aprimorado com técnicas avançadas de programação em C,
+explorando **recursividade** e **loops complexos** para simular os movimentos das peças
+do jogo de xadrez.
+
+As peças Torre, Bispo e Rainha foram implementadas utilizando **funções recursivas**,
+substituindo os loops simples utilizados nos níveis anteriores.
+
+O Cavalo foi implementado com **loops aninhados complexos**, utilizando múltiplas variáveis
+e controle de fluxo com `break` e `continue`, simulando corretamente o movimento em “L”.
+
+---
+
+### Peças e Técnicas Utilizadas
+
+- **Torre**
+  - Movimento horizontal
+  - Implementação com **recursividade**
+
+- **Rainha**
+  - Movimento horizontal
+  - Implementação com **recursividade**
+
+- **Bispo**
+  - Movimento diagonal
+  - **Recursividade combinada com loops aninhados**
+  - Loop externo: movimento vertical  
+  - Loop interno: movimento horizontal
+
+- **Cavalo**
+  - Movimento em “L” (duas casas para cima e uma para a direita)
+  - Implementação com **loops aninhados complexos**
+  - Uso de `break` e `continue`
+
+---
+
+### Arquivo do Nível Mestre
+
+O código do nível mestre está disponível no arquivo:
+
+
 
 
